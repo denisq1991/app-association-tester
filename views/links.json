@@ -1,0 +1,48 @@
+{
+	"applinks": {
+		"apps": [
+
+		],
+		"details": [{
+			"appID": "4VET42N38W.com.dotankstudios.AtomFlow",
+			"paths": [
+				"Home URL",
+				"/",
+				"Whats-New URLs",
+				"/??/??/?/?hop/Whats-New/Now",
+				"/??/??/?hop/Whats-New/Now",
+				"/?hop/Whats-New/Now",
+				"Whats-New with category URLs",
+				"/??/??/?/?hop/Whats-New/Now/*",
+				"/??/??/?hop/Whats-New/Now/*",
+				"/?hop/Whats-New/Now/*",
+				"Designer URLs",
+				"/??/??/Shop/Designers/*",
+				"/Shop/Designers/*",
+				"Custom list URLs",
+				"??/??/Shop/List/*",
+				"/Shop/List/*",
+				"Category URLs",
+				"/??/??/?/?hop/*",
+				"/??/??/?hop/*",
+				"/?hop/*/*",
+				"Product detail URLs",
+				"/??/??/product/??????",
+				"/product/??????",
+				"/products/??????",
+				"/??/??/product/??????/*/*",
+				"/product/??????/*/*",
+				"Shopping Bag URLs",
+				"/??/??/shoppingbag",
+				"/shoppingbag",
+				"/??/??/shoppingbag.nap",
+				"/shoppingbag.nap",
+				"Wishlist URLs",
+				"/??/??/wishlist.nap",
+				"/wishlist.nap",
+				"/??/??/wishlist",
+				"/wishlist"
+			]
+		}]
+	}
+}
