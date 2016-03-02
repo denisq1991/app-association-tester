@@ -7,4 +7,10 @@ router.get('/', function(req, res, next) {
   res.json(json);
 });
 
+router.get('/apple-app-site-association', function(req, res, next) {
+  res.json(json);
+});
+
+
+
 module.exports = router;
