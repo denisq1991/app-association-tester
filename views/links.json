@@ -1,48 +1,78 @@
-{
-	"applinks": {
-		"apps": [
-
-		],
-		"details": [{
-			"appID": "4VET42N38W.com.dotankstudios.AtomFlow",
-			"paths": [
-				"Home URL",
-				"/",
-				"Whats-New URLs",
-				"/??/??/?/?hop/Whats-New/Now",
-				"/??/??/?hop/Whats-New/Now",
-				"/?hop/Whats-New/Now",
-				"Whats-New with category URLs",
-				"/??/??/?/?hop/Whats-New/Now/*",
-				"/??/??/?hop/Whats-New/Now/*",
-				"/?hop/Whats-New/Now/*",
-				"Designer URLs",
-				"/??/??/Shop/Designers/*",
-				"/Shop/Designers/*",
-				"Custom list URLs",
-				"??/??/Shop/List/*",
-				"/Shop/List/*",
-				"Category URLs",
-				"/??/??/?/?hop/*",
-				"/??/??/?hop/*",
-				"/?hop/*/*",
-				"Product detail URLs",
-				"/??/??/product/??????",
-				"/product/??????",
-				"/products/??????",
-				"/??/??/product/??????/*/*",
-				"/product/??????/*/*",
-				"Shopping Bag URLs",
-				"/??/??/shoppingbag",
-				"/shoppingbag",
-				"/??/??/shoppingbag.nap",
-				"/shoppingbag.nap",
-				"Wishlist URLs",
-				"/??/??/wishlist.nap",
-				"/wishlist.nap",
-				"/??/??/wishlist",
-				"/wishlist"
-			]
-		}]
+[{
+		name: "Gucci",
+		key: "Gucci",
+		brand: "NAP",
+		languages: {
+			default: {
+				en: {
+					description: "Christian Louboutin's background - designing shoes for the showgirls of Paris' famed Folies Bergère - means playfulness and glamour define his collections. As well as the cult appeal of the iconic red soles, opulent embellishments, bold color and daring heel heights have garnered the brand a global following. Check out our collection of [sandals](https://www.theoutnet.com/en-GB/Shop/Designers/Christian_Louboutin/Shoes/Sandals), [pumps](https://www.theoutnet.com/Shop/Designers/Christian_Louboutin/Shoes/Pumps) and more.",
+					title: "Gucci Title"
+				},
+				fr: {
+					description: "La saison dernière, Alessandro Michele a frappé les esprits avec une collection Gucci aux accents rétro plein d’audace. Le créateur a récidivé pour leur défilé printemps-été 2016, qu’il qualifie de « coffre aux trésors d’inspirations esthétiques », avec des robes midi en dentelle, des jupes brodées et des blouses à lavallière féminines. Les mocassins, sandales à plates-formes et sacs Dionysus richement ornés sont d’ors et déjà incontournables.",
+					title: "Gucci"
+				},
+				de: {
+					description: "Alessandro Michele präsentierte bei der Laufstegshow für das Frühjahr 2016, die er als „Schatzkiste voller ästhetischer Referenzen“ bezeichnete, Midikleider aus Spitze, bestickte Röcke sowie romantische Schluppenblusen – aufbauend auf die markante, von Retro-Looks inspirierte Vision, die uns schon in der letzten Saison begeisterte. Must-haves sind außerdem Loafers, Plateausandalen und die verzierten „Dionysus“ Taschen.",
+					title: "Gucci"
+				},
+				zh - Hans: {
+					description: "继上一季怀旧而不拘一格的设计广受好评之后，Gucci 品牌创意总监 Alessandro Michele 所执笔的 2016 春夏系列续写前章，在复古主义与未来构想的漩涡中精彩博弈。薄透的蕾丝中长连衣裙、繁复的刺绣半身裙和浪漫的蝴蝶结女衫——这些以精致印花、非凡工艺和珍稀材质等各种元素交织而成的作品，无一不是从 Alessandro 脑海中的“美学宝库”中倾心寻觅。乐福鞋、防水台凉鞋和极富艺术感的 “Dionysus” 缀饰酒神包更是至潮单品，不容错过。",
+					title: "Gucci"
+				}
+				images: [{
+					types: [{
+						device: "desktop",
+						url: "//assets.ynap-content.com/Christian_Louboutin-1457951526067.jpeg"
+					}, {
+						device: "app",
+						url: "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
+					}, {
+						device: "mobile",
+						url: "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
+					}],
+					alt: "Spiked leather ankle boots by Gucci",
+					caption: ""
+				}]
+			}
+		}
 	}
-}
+}, {
+	name: "GHD",
+	key: "GHD",
+	brand: "NAP",
+	languages: {
+		default: {
+			en: {
+				description: "Christian Louboutin's background - designing shoes for the showgirls of Paris' famed Folies Bergère - means playfulness and glamour define his collections. As well as the cult appeal of the iconic red soles, opulent embellishments, bold color and daring heel heights have garnered the brand a global following. Check out our collection of [sandals](https://www.theoutnet.com/en-GB/Shop/Designers/Christian_Louboutin/Shoes/Sandals), [pumps](https://www.theoutnet.com/Shop/Designers/Christian_Louboutin/Shoes/Pumps) and more.",
+				title: "GHD Title"
+			},
+			fr: {
+				description: "La saison dernière, Alessandro Michele a frappé les esprits avec une collection Gucci aux accents rétro plein d’audace. Le créateur a récidivé pour leur défilé printemps-été 2016, qu’il qualifie de « coffre aux trésors d’inspirations esthétiques », avec des robes midi en dentelle, des jupes brodées et des blouses à lavallière féminines. Les mocassins, sandales à plates-formes et sacs Dionysus richement ornés sont d’ors et déjà incontournables.",
+				title: "GHD Title"
+			},
+			de: {
+				description: "Alessandro Michele präsentierte bei der Laufstegshow für das Frühjahr 2016, die er als „Schatzkiste voller ästhetischer Referenzen“ bezeichnete, Midikleider aus Spitze, bestickte Röcke sowie romantische Schluppenblusen – aufbauend auf die markante, von Retro-Looks inspirierte Vision, die uns schon in der letzten Saison begeisterte. Must-haves sind außerdem Loafers, Plateausandalen und die verzierten „Dionysus“ Taschen.",
+				title: "GHD Title"
+			},
+			zh - Hans: {
+				description: "继上一季怀旧而不拘一格的设计广受好评之后，Gucci 品牌创意总监 Alessandro Michele 所执笔的 2016 春夏系列续写前章，在复古主义与未来构想的漩涡中精彩博弈。薄透的蕾丝中长连衣裙、繁复的刺绣半身裙和浪漫的蝴蝶结女衫——这些以精致印花、非凡工艺和珍稀材质等各种元素交织而成的作品，无一不是从 Alessandro 脑海中的“美学宝库”中倾心寻觅。乐福鞋、防水台凉鞋和极富艺术感的 “Dionysus” 缀饰酒神包更是至潮单品，不容错过。",
+				title: "GHD Title"
+			}
+			images: [{
+				types: [{
+					device: "desktop",
+					url: "//assets.ynap-content.com/Christian_Louboutin-1457951526067.jpeg"
+				}, {
+					device: "app",
+					url: "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
+				}, {
+					device: "mobile",
+					url: "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
+				}],
+				alt: "Spiked leather ankle boots by GHD",
+				caption: ""
+			}]
+		}
+	}
+}]
