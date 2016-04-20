@@ -19,7 +19,7 @@
 						"url": "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
 					}],
 					"alt": "Spiked leather ankle boots by GHD",
-					"caption": "Caption for DLP Header",
+					"caption": "",
 					"link": "https://www.net-a-porter.com/whatever2"
 				},
 				{
@@ -36,6 +36,7 @@
 					"alt": "Spiked leather ankle boots by GHD 2",
 					"caption": "",
 					"link": "https://www.net-a-porter.com/whatever3"
+
 				}]
 			},
 			"fr": {
@@ -94,22 +95,7 @@
 					"caption": "",
 					"link": "https://www.net-a-porter.com/whatever2"
 				}]
-			},
-			"images": [{
-				"types": [{
-					"device": "desktop",
-					"url": "//assets.ynap-content.com/Christian_Louboutin-1457951526067.jpeg"
-				}, {
-					"device": "app",
-					"url": "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
-				}, {
-					"device": "mobile",
-					"url": "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
-				}],
-				"alt": "Spiked leather ankle boots by Gucci",
-				"caption": "Caption for DLP Header",
-				"link": "https://www.net-a-porter.com/whatever1"
-			}]
+			}
 		}
 	}
 }, {
@@ -133,7 +119,7 @@
 						"url": "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
 					}],
 					"alt": "Spiked leather ankle boots by GHD",
-					"caption": "Caption for DLP Header",
+					"caption": "",
 					"link": "https://www.net-a-porter.com/whatever2"
 				}]
 			},
