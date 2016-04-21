@@ -16,7 +16,7 @@
 						"url": "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
 					}, {
 						"device": "mobile",
-						"url": "//assets.ynap-content.com/Christian_Louboutin-1457951529427.jpeg"
+						"url": "https://cct-image-store-02.s3.amazonaws.com/func02/Gucci-1461246224324.jpeg"
 					}],
 					"alt": "Spiked leather ankle boots by GHD",
 					"caption": "This is the image caption",
@@ -31,10 +31,10 @@
 						"url": "//assets.ynap-content.com/Christian_Louboutin2-1457951529427.jpeg"
 					}, {
 						"device": "mobile",
-						"url": "//assets.ynap-content.com/Christian_Louboutin2-1457951529427.jpeg"
+						"url": "https://cct-image-store-02.s3.amazonaws.com/func02/Gucci-1461246231517.jpeg"
 					}],
 					"alt": "Spiked leather ankle boots by GHD 2",
-					"caption": "",
+					"caption": "This is the second caption",
 					"link": "https://s3-eu-west-1.amazonaws.com/nap-mobile/Gucci_video.mp4"
 
 				}]
